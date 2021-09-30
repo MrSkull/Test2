@@ -28,6 +28,7 @@ body {
     flex-wrap: wrap ;
 }
 .firstbutton {
+    font-family: 'Proxima Nova Alt Rg';
     margin-left: 506px;
     height: 34px;
     width: 104px;
@@ -147,4 +148,42 @@ body {
     color: white;
     text-align: center;
     line-height: 63px;
+}
+.meoreseqcia {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.fourboxes {
+    display: flex;
+    width: 1780px;
+    height: 293x;
+    margin-top: 178px;
+}
+.box1 {
+    border: 0px solid;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    border-radius: 18px;
+    height: 293.4px;
+    width: 369px;
+    padding:29px 68px 20.4px 26px;
+}
+.insidebox1 {
+    width: 275px;
+    height: 244px;
+}
+.satauri1 {
+    margin-top: 11px;
+}
+.box2 {
+    border: 0px solid;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    margin-left: 101px;
+    height: 293.4px;
+    width: 369px;
+    padding:29px 58px 24.4px 26px;
+}
+.insidebox2 {
+   width: 285px;
+   height: 240px;
 }

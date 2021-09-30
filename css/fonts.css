@@ -10,6 +10,7 @@
     font-style: normal;
     font-display: swap;
 }
+/* PROXIMA NOVA REGULAR */
 @font-face {
     font-family: 'Proxima Nova Alt Rg';
     src: url('../fonts/proxima/ProximaNovaA-Regular.eot');
@@ -22,6 +23,7 @@
     font-style: normal;
     font-display: swap;
 }
+/* PROXIMA NOVA SEMIBOLD */
 @font-face {
     font-family: 'Proxima Nova Alt Lt';
     src: url('../fonts/proximasemibold/ProximaNovaA-Semibold.eot');
