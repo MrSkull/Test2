@@ -160,6 +160,7 @@ body {
     height: 293x;
     margin-top: 178px;
 }
+
 .box1 {
     border: 0px solid;
     box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
@@ -168,12 +169,26 @@ body {
     width: 369px;
     padding:29px 68px 20.4px 26px;
 }
+.greybox1 {
+    height: 97px;
+    width: 103px;
+    background-color: #F0F4FC;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    padding: 14px 25px 15px 24.2px;
+}
 .insidebox1 {
     width: 275px;
     height: 244px;
 }
 .satauri1 {
     margin-top: 11px;
+    font-family: 'Proxima Nova Alt Lt';
+    font-size: 24px;
+}
+.satauri2 {
+    font-family: 'Proxima Nova Alt Rg';
+    font-size: 20px;
 }
 .box2 {
     border: 0px solid;
@@ -183,7 +198,79 @@ body {
     width: 369px;
     padding:29px 58px 24.4px 26px;
 }
+.greybox2 {
+    height: 97px;
+    width: 103px;
+    background-color: #F0F4FC;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    padding: 12.5px 15.9px 12.5px 15.1px;
+}
 .insidebox2 {
    width: 285px;
    height: 240px;
+}
+.box3 {
+    border: 0px solid;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    margin-left: 101px;
+    height: 293.4px;
+    width: 369px;
+    padding:29px 14px 51.4px 31px;
+}
+.greybox3 {
+    height: 97px;
+    width: 103px;
+    background-color: #F0F4FC;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    padding: 27px 19.1px 27.4px 20px;
+}
+.insidebox3 {
+    width: 324px;
+    height: 213px;
+}
+.box4 {
+    border: 0px solid;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    margin-left: 101px;
+    height: 293.4px;
+    width: 369px;
+    padding:29px 33px 51.4px 24px;
+}
+.greybox4 {
+    height: 97px;
+    width: 103px;
+    background-color: #F0F4FC;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 10px rgba(240, 240, 240,30%);
+    padding: 13px 16.8px 13.8px 16px;
+}
+.insidebox4 {
+    width: 312px;
+    height: 213px;
+}
+.mesameseqcia {
+    margin-top: 178px;
+    padding: 58px 17px 91.5px 17px;
+}
+.recpad {
+    padding: 58px 694px 0px 717px;
+}
+.rekomendacia {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Proxima Nova Alt Bold';
+    width: 509px;
+}
+.chamonatvali {
+    width: 1201.5px;
+    height: 48.5px;
+    margin: 79px 289.5px 64.5px 289.5px;
+}
+.chamonatvalissia {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Proxima Nova Alt Lt';
+    font-size: 26px;
 }

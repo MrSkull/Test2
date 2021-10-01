@@ -36,5 +36,20 @@
     font-style: normal;
     font-display: swap;
 }
+/* PROXIMA NOVA BOLD */
+@font-face {
+    font-family: 'Proxima Nova Alt Bold';
+    src: url('../fonts/proximabold/ProximaNovaA-Bold.eot');
+    src: url('../fonts/proximabold/ProximaNovaA-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/proximabold/ProximaNovaA-Bold.woff2') format('woff2'),
+        url('../fonts/proximabold/ProximaNovaA-Bold.woff') format('woff'),
+        url('../fonts/proximabold/ProximaNovaA-Bold.ttf') format('truetype'),
+        url('../fonts/proximabold/ProximaNovaA-Bold.svg#ProximaNovaA-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 
 
