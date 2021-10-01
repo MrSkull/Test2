@@ -274,3 +274,13 @@ body {
     font-family: 'Proxima Nova Alt Lt';
     font-size: 26px;
 }
+.cities {
+    display: flex;
+    flex: wrap;
+    width: 1800px;
+    height: 1620px;
+}
+.city1 {
+    width: 560px;
+    height: 650px;
+}
