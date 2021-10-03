@@ -41,6 +41,7 @@ body {
     height: 70px;
 }
 .pirveliseqcia {
+    display: flex;
     padding-left: 70px;
     padding-right: 70px;
     max-width: 1780px;
@@ -283,4 +284,16 @@ body {
 .city1 {
     width: 560px;
     height: 650px;
+}
+@media (max-width :800px){
+    
+    .pirveliseqcia{
+        max-width: 50%;
+        flex-direction: column;
+    }
+    .bigbanner {
+        width: 100%;
+        flex-direction: column;
+    }
+
 }
