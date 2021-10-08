@@ -284,8 +284,63 @@ body {
 .city1 {
     width: 560px;
     height: 650px;
+    
 }
-@media (max-width :800px){
+.cityname1 {
+    margin-left: 10px;
+    font-family: 'Proxima Nova Alt Lt';
+    font-size: 38px;
+}
+.cityname2 {
+    margin-left: 10px;
+    font-family: 'Proxima Nova Alt Rg';
+    font-size: 26px;
+}
+.warwera {
+    display: flex;
+    align-items: center;
+    margin-top: 18px;
+    margin-left: 10px;
+    
+}
+.lari {
+    margin-left: 295px; 
+    font-family: 'Proxima Nova Alt Lt';
+    font-size: 31px;
+}
+.pataraiconebi {
+    margin-right: 14px;
+}
+.dro {
+    display: flex;
+    width: 558px;
+    height: 30px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    font-family: 'Proxima Nova Alt Rg';
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width :800px){
     
     .pirveliseqcia{
         max-width: 50%;
@@ -296,4 +351,4 @@ body {
         flex-direction: column;
     }
 
-}
+} */
